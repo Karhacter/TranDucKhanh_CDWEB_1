@@ -64,3 +64,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## To run this 
+First, please instasll php and xampp or laragon
+Second, clone project then in the folder project open terminal and press composer install 
+Finally, just turn on xampp or laragon and access the localhost/ you will have it 
